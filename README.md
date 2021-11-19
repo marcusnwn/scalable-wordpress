@@ -100,3 +100,5 @@ sudo service httpd restart
 ```
 
 Use WP Offload Media Lite for uploading to S3
+
+Use W3 Total Cache for caching by Elasticache
