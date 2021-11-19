@@ -1,5 +1,7 @@
 # Scalable-wordpress
 
+![scalable-wordpress](https://user-images.githubusercontent.com/9261163/142619963-6b506231-4f12-45de-8948-c0733d8f544f.png)
+
 [Link](http://ec2-13-213-39-102.ap-southeast-1.compute.amazonaws.com/)
 
 
@@ -99,6 +101,8 @@ Restart web server
 sudo service httpd restart
 ```
 
-Use WP Offload Media Lite for uploading to S3
+Plan in the future:
 
-Use W3 Total Cache for caching by Elasticache
+Use EFS, mount EFS to EC2 /var/www/html to have multiple EC2 instance share the storage. 
+
+Use W3 Total Cache Wordpress plugin for caching by Elasticache
