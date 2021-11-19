@@ -1,6 +1,7 @@
 # Scalable-wordpress
 
-[Link] (http://ec2-13-213-39-102.ap-southeast-1.compute.amazonaws.com/)
+[Link](http://ec2-13-213-39-102.ap-southeast-1.compute.amazonaws.com/)
+
 
 Use AWS RDS as the database
 
